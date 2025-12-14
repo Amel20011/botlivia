@@ -1,0 +1,15 @@
+{
+  "name": "botlivia",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot LIVIAA ID",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:kiuur/baileys",
+    "pino": "^8.17.0",
+    "fs-extra": "^11.2.0"
+  }
+}
